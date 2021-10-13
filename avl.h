@@ -3,10 +3,10 @@
  * de suas operações.
  *
  * AUTORES
-* Lara Iasmine P Fabiano
-* Gustavo Lino Barbosa
-* Victor Filippi
-* Vitor Tuler
+* Lara Iasmine P Fabiano - 7986907
+* Gustavo Lino Barbosa - 9656506
+* Victor Filippi - 5148846
+* Vitor Tuler - 4736500
 * 13/10/2021
  */
 
